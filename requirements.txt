@@ -1,0 +1,5 @@
+numpy
+pandas
+streamlit
+rdkit
+Pillow
